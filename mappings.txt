@@ -3416,7 +3416,7 @@ model.creature.humanoid.lavacreature        = creatures/lavafiend/Lavafiend_main
 model.creature.humanoid.giant.forest        = creatures/forestgiant/Forest_giant_main.wom
 model.corpse.forestgiant 					= creatures/forestgiant/Forest_giant_corpse.wom
 
-model.creature.humanoid.troll.standard        	= creatures/pumpkincreature/main.wom
+model.creature.humanoid.troll.standard        	= creatures/trolls/Troll_main.wom
 model.corpse.troll            					= creatures/trolls/Troll_corpse.wom
 model.corpse.troll.butchered        			= creatures/butcherdgeneric/butcheredGeneric1.wom
 
@@ -6915,7 +6915,7 @@ model.armour.head.dragon.leather 		= player/helms/drakehideCap.wom
 model.armour.head.dragon.leather.red 		= player/helms/drakehideCap.wom?capMat.texture=Drakehide_cap_red.dds
 model.armour.head.dragon.leather.blue 		= player/helms/drakehideCap.wom?capMat.texture=Drakehide_cap_blue.dds
 model.armour.head.dragon.leather.black 		= player/helms/drakehideCap.wom?capMat.texture=Drakehide_cap_black.dds
-model.armour.head.dragon.leather.white 		= commodities/Pumpkin_jack.wom?Pumpkin.emissive=0.35,0.35,0.35,1.0
+model.armour.head.dragon.leather.white 		= player/helms/drakehideCap.wom?capMat.texture=Drakehide_cap_white.dds
 
 model.armour.head.studded.leather		= player/helms/studdedleatherCap01.wom
 model.armour.head.cotton			= player/helms/ClothHood01_Item.wom
