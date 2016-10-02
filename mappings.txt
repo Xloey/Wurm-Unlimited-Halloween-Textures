@@ -3640,7 +3640,7 @@ model.transports.medium.wagon        			= transports/Wagon_main.wom
 model.transports.medium.wagon.free     			= transports/Wagon_main.wom?tentMat.texture=wagon_cloth_free.dds
 model.transports.medium.wagon.jenn     			= transports/Wagon_main.wom?tentMat.texture=wagon_cloth_jenn.dds
 model.transports.medium.wagon.zjen     			= transports/Wagon_main.wom?tentMat.texture=wagon_cloth_jk_pmk.dds
-model.transports.medium.wagon.molr    			= transports/largecart_main.wom
+model.transports.medium.wagon.molr    			= transports/Wagon_main.wom?tentMat.texture=wagon_cloth_molr.dds
 model.transports.medium.wagon.empi    			= transports/Wagon_main.wom?tentMat.texture=wagon_cloth_empi_pmk.dds
 model.transports.medium.wagon.hots     			= transports/Wagon_main.wom?tentMat.texture=wagon_cloth_hots.dds
 model.transports.medium.wagon.blac     			= transports/Wagon_main.wom?tentMat.texture=wagon_cloth_blac_pmk.dds
